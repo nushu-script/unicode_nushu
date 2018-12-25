@@ -8,7 +8,7 @@ If you are looking for the Nushu Dictionary website, see [here.<br /><br /><big>
 
 ### Correspondences
 
-The correspondences are listed in `data.csv`, including (a) the Nushu character itself, (b) its sequence number in the book 女书规范字书法字帖, (c) the Chinese characters it could correspond to, (d) representative pronunciation in the dialect.
+The correspondences are listed in `data.csv`, including (a) the Nushu character itself, (b) its sequence number in the book 《女书规范字书法字帖》, (c) the Chinese characters it could correspond to, (d) representative pronunciation in the dialect.
 
 This file could be accessed by `http://nushuscript.org/unicode_nushu/data.csv`, or by [viewing it on GitHub](https://github.com/nushu-script/unicode_nushu/blob/master/data.csv).
 
