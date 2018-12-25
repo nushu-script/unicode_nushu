@@ -2,7 +2,7 @@
 
 Unicode Nushu is the database for Nushu included in the Unicode Standard.
 
-If you are looking for the Nushu Dictionary website, see [here](http://nushuscript.org/).
+If you are looking for the Nushu Dictionary website, see [here.<br />**点击此处进入女书词典网站**](http://nushuscript.org/)
 
 ## Usage
 
