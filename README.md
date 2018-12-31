@@ -28,4 +28,4 @@ Everybody is welcomed!
 
 This repository is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-Copyright &copy; 2018 The Nushu Coder's Group on GitHub
+Copyright &copy; 2018-2019 The Nushu Coder's Group on GitHub
