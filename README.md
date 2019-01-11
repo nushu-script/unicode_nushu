@@ -2,7 +2,7 @@
 
 Unicode Nushu is the database for Nushu included in the Unicode Standard.
 
-If you are looking for the Nushu Dictionary website, see [here.<br /><br /><big>**点击此处进入女书词典网站**</big>](http://nushuscript.org/)
+If you are looking for the Nushu Dictionary website, see [here.<br /><br /><big>**点击此处进入女书词典网站**</big>](https://nushuscript.org/)
 
 ## Usage
 
@@ -10,13 +10,13 @@ If you are looking for the Nushu Dictionary website, see [here.<br /><br /><big>
 
 The correspondences are listed in `data.csv`, including (a) the Nushu character itself, (b) its sequence number in the book 《女书规范字书法字帖》, (c) the Chinese characters it could correspond to, (d) representative pronunciation in the dialect.
 
-This file could be accessed by `http://nushuscript.org/unicode_nushu/data.csv`, or by [viewing it on GitHub](https://github.com/nushu-script/unicode_nushu/blob/master/data.csv).
+This file could be accessed by `https://nushuscript.org/unicode_nushu/data.csv`, or by [viewing it on GitHub](https://github.com/nushu-script/unicode_nushu/blob/master/data.csv).
 
 ### Images
 
 The images of Nushu characters are in `glyph` folder.
 
-These files could be accessed by `http://nushuscript.org/unicode_nushu/glyph/num.jpg`, in which `num` is in decimal form.
+These files could be accessed by `https://nushuscript.org/unicode_nushu/glyph/num.jpg`, in which `num` is in decimal form.
 
 ## Contribution
 
